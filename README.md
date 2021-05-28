@@ -16,4 +16,4 @@ For a detailed explanation of the functions and how the code works and how you, 
 The Covid-19 data was derived from https://github.com/owid/covid-19-data/blob/master/public/data/README.md
 
 ## Creators
-This Programm was created by Project Group 2307, which consists of Andrin (16-610-586), MZanella (16-621-419) and DonPablo. We recommend the coding to everyone, as it can be fun, enlightening and helpful for any task!
+This Programm was created by Project Group 2307, which consists of Andrin, MZanella and DonPablo. We recommend the coding to everyone, as it can be fun, enlightening and helpful for any task!
