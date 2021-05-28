@@ -10,7 +10,7 @@ For a detailed explanation of the functions and how the code works look into the
 ## Manual
 The program was programmed with Python 3 and can be executed with any Python software. For the script is only the library datetime necessary, which is imported at the beginning of the program. Make sure that the Covid-19-file is saved in the same folder so that there are no complications with the data processing. 
 
-For a detailed explanation of the functions and how the code works look into the following file:
+For a detailed explanation of the functions and how the code works look into the the file: Group2307.docx
 
 ## Credits
 The Covid-19 data was derived from https://github.com/owid/covid-19-data/blob/master/public/data/README.md
