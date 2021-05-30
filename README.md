@@ -8,6 +8,7 @@ The program obtains a dataset from an Excel, which is then divided into its comp
 
 For a detailed explanation of the functions and how the code works look into the following file: 
 https://github.com/Shady43/HSGGroup2307/blob/557072500fe920e5900b1715eb15c6b92e0b6038/Manual%20and%20further%20information.docx
+
 ## Manual
 The program was programmed with Python 3 and can be executed with any Python software. For the script is only the library datetime necessary, which is imported at the beginning of the program. Make sure that the Covid-19-file is saved in the same folder so that there are no complications with the data processing. 
 
