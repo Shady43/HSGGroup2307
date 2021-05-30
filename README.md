@@ -19,7 +19,7 @@ For a detailed explanation of the functions and how the code works look into the
 
 ## Credits
 The Covid-19 data was derived from <p><a href="https://github.com/owid/covid-19-data/blob/master/public/data/README.md">
-  **here**
+  **a comprehensive dataset about the Covid-19 pandemic.**
 </a></p> 
 
 ## Creators
