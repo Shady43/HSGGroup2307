@@ -9,9 +9,7 @@ The program obtains a dataset from an Excel, which is then divided into its comp
 For a detailed explanation of the functions and how the code works look into the following file: 
 https://github.com/Shady43/HSGGroup2307/blob/557072500fe920e5900b1715eb15c6b92e0b6038/Manual%20and%20further%20information.docx
 
-## Manual <p><a href="https://github.com/Shady43/HSGGroup2307/blob/557072500fe920e5900b1715eb15c6b92e0b6038/Manual%20and%20further%20information.docx">
-  **Manual**
-</a></p>
+## Manual 
 The program was programmed with Python 3 and can be executed with any Python software. For the script is only the library datetime necessary, which is imported at the beginning of the program (already implemented in the code itself). Make sure that the Covid-19-file is saved in the same folder so that there are no complications with the data processing (remember, do not change the name of the file, else, you have to change to code accordingly). 
 
 For a detailed explanation of the functions and how the code works look into the <p><a href="https://github.com/Shady43/HSGGroup2307/blob/557072500fe920e5900b1715eb15c6b92e0b6038/Manual%20and%20further%20information.docx">
@@ -19,7 +17,9 @@ For a detailed explanation of the functions and how the code works look into the
 </a></p>
 
 ## Credits
-The Covid-19 data was derived from https://github.com/owid/covid-19-data/blob/master/public/data/README.md
+The Covid-19 data was derived from <p><a href="https://github.com/owid/covid-19-data/blob/master/public/data/README.md">
+  **here**
+</a></p> 
 
 ## Creators
 This Programm was created by Project Group 2307, which consists of Andrin, MZanella and DonPablo. We recommend the coding to everyone, as it can be fun, enlightening and helpful for any task!
